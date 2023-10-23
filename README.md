@@ -7,7 +7,7 @@ El proyecto List of banks fue creado con la libreria react haciendo uso de la si
 
 ### Instalación del proyecto
 
-1. Clonar el repositorio `git clone https://github.com/kmn04MX/listOfBank#npm-run-eject`
+1. Clonar el repositorio `git clone https://github.com/kmn04MX/listOfBank.git`
 2. Ingresar a la carpeta listOfBank
 3. Ejecutar el comando `npm install`
 4. Ejecutar el comando `npm start`
